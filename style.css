@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+        font-family: 'Oswald', sans-serif;
+    }header {
+        background-color:#565a6e ;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 50px 0;
+        }
+        .cabeçalho{
+           
+            margin:0 180px ;
+            font-size: 40px;
+            }
+       
