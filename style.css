@@ -5,8 +5,8 @@
     body{
         font-family: 'Oswald', sans-serif;
     }header {
-        background-color:#565a6e ;
-        color: white;
+        background-color:#06155c ;
+        color: rgb(236, 241, 233);
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -25,9 +25,17 @@ color: #565a6e;
 
 }
 .container mt-5{
-text-align: end;
+text-align: left;
 
 }
+.container-lista-item{
+display: inline-block;
+justify-content: space-around;
+font-size: 30px;
+color: white;
 
+
+
+}
 
            
