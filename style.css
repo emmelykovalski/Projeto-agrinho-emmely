@@ -24,18 +24,28 @@ text-align: center;
 color: #565a6e;
 
 }
-.container mt-5{
+.container-mt-5{
 text-align: left;
+color: black;
 
 }
 .container-lista-item{
 display: inline-block;
 justify-content: space-around;
 font-size: 30px;
-color: white;
-
-
 
 }
 
-           
+
+
+.imagem-fazenda{
+    width: 18%;
+    font-family: 10%;
+}
+
+.imagem-haras{
+    width: 18%;
+}
+.imagem-sitio{
+    width: 18%;
+}
