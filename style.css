@@ -6,7 +6,7 @@
         font-family: 'Oswald', sans-serif;
     }header {
         background-color:#06155c ;
-        color: rgb(236, 241, 233);
+        color: rgb(221, 228, 217);
         display: flex;
         justify-content: space-around;
         align-items: center;
@@ -27,6 +27,7 @@ color: #565a6e;
 .container-mt-5{
 text-align: left;
 color: black;
+width: 80%;
 
 }
 .container-lista-item{
@@ -34,18 +35,25 @@ display: inline-block;
 justify-content: space-around;
 font-size: 30px;
 
+
 }
-
-
 
 .imagem-fazenda{
     width: 18%;
     font-family: 10%;
 }
 
+
 .imagem-haras{
     width: 18%;
 }
+
+
 .imagem-sitio{
     width: 18%;
+}
+.container-lista-texto{
+justify-content: space-around;
+
+
 }
